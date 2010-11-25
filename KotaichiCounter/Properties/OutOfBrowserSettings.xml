@@ -1,0 +1,7 @@
+<OutOfBrowserSettings ShortName="個体値カウンター アプリケーション" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>デスクトップの 個体値カウンター アプリケーションを、自宅でも、職場でも、外出先でも利用できます。</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="個体値カウンター アプリケーション" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons />
+</OutOfBrowserSettings>
